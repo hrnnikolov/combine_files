@@ -1,0 +1,1 @@
+This code appends files that have the same columns. It creates a combined file with a name you typed.
